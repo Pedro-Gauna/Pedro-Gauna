@@ -15,6 +15,8 @@ I am an graduate Technic Analyst Sistem. I am expanding my knowledge in back-end
 - Outside tech, 📖 I love to read personal development books, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="mailto:Pedrox10@hotmail.com">Pedrox10@hotmail.com</a>
 
+## My Skill Includes
+
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
