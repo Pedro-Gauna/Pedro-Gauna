@@ -5,7 +5,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an graduate Technic Analyst Sistem. I am expanding my knowledge in back-end development. I love to learn and build something new, productive, innovative and creative.
+I am an graduate Functional Analyst Technician. I am expanding my knowledge in back-end development. I love to learn and build something new, productive, innovative and creative.
 
 - 🌱 I’m currently learning ...
   - Java
